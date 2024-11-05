@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ortools
+networkx
+requests  # for API calls to external services like ORS
+pytest
+python-dotenv
