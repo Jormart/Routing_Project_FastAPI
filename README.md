@@ -239,9 +239,3 @@ This project can be expanded with:
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-## Contact
-
-For any questions or contributions, please reach me out.
